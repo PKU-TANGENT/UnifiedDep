@@ -1,4 +1,4 @@
-# UnifiedDep
+# UnifiedDep: Unified Chinese Discourse Datasets with Dependency Structure
 
 This repository contains the unified Chinese discourse dependency dataset described in the paper [Unifying Discourse Resources with Dependency Framework](https://arxiv.org/pdf/2101.00167.pdf). 
 The dataset is now composed of SciCDTB developed by Peking University and SU-CDTB_{dep} converted from CDTB developed by Soochow University.
